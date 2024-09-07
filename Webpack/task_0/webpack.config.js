@@ -13,8 +13,8 @@ module.exports = {
     main: path.resolve(__dirname, './src/index.js'),
   },
   output: {
-    filename: '[name].bundle.js',
-    path: path.resolve(__dirname, 'deploy')
+    filename: 'main.js',
+    path: path.resolve(__dirname, 'dist')
   },
   module: {
     rules: [
