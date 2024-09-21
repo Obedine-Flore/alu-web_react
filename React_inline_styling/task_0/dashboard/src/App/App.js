@@ -1,6 +1,6 @@
 import './App.css';
 import React from 'react';
-import { hot } from 'react-hot-loader';
+//import { hot } from 'react-hot-loader';
 import PropTypes from 'prop-types';
 
 import Header from '../Header/Header';
@@ -84,4 +84,4 @@ App.defaultProps = {
   logOut: () => {},
 };
 
-export default hot(module)(App);
+export default App;
