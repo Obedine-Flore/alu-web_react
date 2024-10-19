@@ -1,1 +1,1 @@
-This is my README file for react_redux_connectors_and_providers
+This is my README file for react_redux_reducer_selector
