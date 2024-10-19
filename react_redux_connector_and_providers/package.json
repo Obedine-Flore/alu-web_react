@@ -1,0 +1,12 @@
+{
+  "name": "react_redux_connector_and_providers",
+  "version": "1.0.0",
+  "description": "This is my README file for react_redux_connectors_and_providers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
